@@ -19,20 +19,29 @@
 ### .preffier 파일 생성
 
 ```json
-
-
-    {
- "singleQuote": true,
- "semi": true,
- "useTabs": false,
- "tabWidth": 2,
- "trailingComma": "all",
- "printWidth": 80
-
-    }
-
-
+{
+  "singleQuote": true,
+  "semi": true,
+  "useTabs": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "printWidth": 80
+}
+```
 
 ### 라이브러리
+
 - npm install --save styled-components
-```
+
+### Git 관리
+
+-git init (박스 3개 만들기)
+-git add . (두 번째 박스로 옮기기 - 사진 찍기)
+-git commit -m "1. v1" (세 번째 박스로 옮기기 - 사진첩 옮기기)
+
+-gitgub에 저장소 만들기 (주소 : www.hello.com)
+
+-git remote add origin www.hello.com
+-git push origin master (업로드)
+-git pull origin master (다운로드)
+-npm install (의존성 다운로드)
