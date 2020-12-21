@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import Main from '../pages/Main';
 import Search from './Search';
 
 const Header = () => {
@@ -33,6 +34,7 @@ const Header = () => {
   `;
 
   return (
+    <div>
     <HeaderStyle>
       <NavStyle>
         <LogoStyle>
@@ -50,6 +52,8 @@ const Header = () => {
         <Search />
       </Section1Style>
     </HeaderStyle>
+    <Main/>
+    </div>
   );
 };
 
