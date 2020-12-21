@@ -29,14 +29,22 @@
 
 ### 화면 구현
 
-_header.js, search.js_
+**header.js, search.js**
 
 ![헤더](./image/Header.PNG)
 
-_Main.js_
+
+--------------------------
+
+**Main.js**
 
 ![메인](./image/main1.PNG)
+-----------------------------
 
 ![메인2](./image/main2.PNG)
 
+--------------------------
+
 ![메인3](./image/main3.PNG)
+
+-------------------------------
