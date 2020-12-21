@@ -1,10 +1,4 @@
-# Style-Components - 연습
-
-### 사진
-
-![main](
-
-)
+# Style-Components로 에어비앤비 화면 구현
 
 ### 설치
 
@@ -33,15 +27,16 @@
 
 - npm install --save styled-components
 
-### Git 관리
+### 화면 구현
 
--git init (박스 3개 만들기)
--git add . (두 번째 박스로 옮기기 - 사진 찍기)
--git commit -m "1. v1" (세 번째 박스로 옮기기 - 사진첩 옮기기)
+_header.js, search.js_
 
--gitgub에 저장소 만들기 (주소 : www.hello.com)
+![헤더](./image/Header.PNG)
 
--git remote add origin www.hello.com
--git push origin master (업로드)
--git pull origin master (다운로드)
--npm install (의존성 다운로드)
+_Main.js_
+
+![메인](./image/main1.PNG)
+
+![메인2](./image/main2.PNG)
+
+![메인3](./image/main3.PNG)
